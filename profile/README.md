@@ -1,5 +1,6 @@
-## Hi there 👋
+## Quart Addons
 
+Quart Addons creates extensions for the Python Web Framework Quart. Mostly, the projects are ports from Flask to Quart. 
 <!--
 
 **Here are some ideas to get you started:**
